@@ -7,13 +7,13 @@
 Esta aplicación permite gestionar recetas de cocina a través de un panel de administración con autenticación. Los usuarios con rol de gestor pueden:
 
 - 👨‍🍳 Crear y administrar chefs personalizados.
-- 
+  
 - 📖 Crear, editar y eliminar recetas.
-- 
+  
 - 🖼️ Subir imágenes para acompañar las recetas.
-- 
+  
 - 🔎 Ver detalles de cada receta en una vista elegante.
-- 
+
 - 💬 Acceder a traducciones en español e inglés para toda la interfaz.
 
 ENTREGAS:
