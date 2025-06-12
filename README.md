@@ -39,9 +39,13 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 🎬 VIDEO EXPOSICIÓN (Checkpoint): Ver presentación
 
-
-
 📝 HISTÓRICO DE CAMBIOS
+
+
+
+
+
+
 
 🔄 AVANCES ANGULAR (Repositorio Web)
 
@@ -58,6 +62,9 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Documentación generada con Typedoc
 
 📦 Descargar CSV ejemplo: receta_tarta_choco.csv🔗 Enlace a Netlify: Ver App Web
+
+
+
 
 
 
@@ -80,6 +87,10 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 
 
+
+
+
+
 ✨ DESARROLLO DE INTERFACES
 
 🖌️ Balsamiq: Diseño inicial
@@ -89,6 +100,9 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 Angular (Typedoc)
 
 Android (Dokka)
+
+
+
 
 
 
