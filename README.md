@@ -20,11 +20,14 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 💬 Acceder a traducciones en español e inglés para toda la interfaz
 
+
 📎 Entregas
 
 📌 Anteproyecto: https://www.notion.so/ReceteoQueTeVeo-1c79f1377a7680c989e9c5a11ea6cc9e
 
 📌 Checkpoint: https://youtu.be/Z5HlpfXF_lo
+
+
 
 🔥 UN ECOSISTEMA PARA AMANTES DE LA COCINA
 
@@ -35,6 +38,8 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ⭐ PARA USUARIOS: Visualiza recetas en detalle y compártelas
 
 🎬 VIDEO EXPOSICIÓN (Checkpoint): Ver presentación
+
+
 
 📝 HISTÓRICO DE CAMBIOS
 
@@ -54,6 +59,10 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 📦 Descargar CSV ejemplo: receta_tarta_choco.csv🔗 Enlace a Netlify: Ver App Web
 
+
+
+
+
 📱 AVANCES ANDROID (Repositorio Android)
 
 ✅ Arquitectura limpia con MVVM y Hilt
@@ -68,6 +77,9 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 📦 Instalar APK: receteo.apk
 
+
+
+
 ✨ DESARROLLO DE INTERFACES
 
 🖌️ Balsamiq: Diseño inicial
@@ -78,6 +90,9 @@ Angular (Typedoc)
 
 Android (Dokka)
 
+
+
+
 🧠 PROCESAMIENTO DE DATOS EN COLAB
 
 📊 Análisis de CSV exportado con Pandas
@@ -85,6 +100,8 @@ Android (Dokka)
 🔧 Limpieza, creación de columnas, búsqueda de patrones
 
 📈 Ver Notebook: recetapp-colab.ipynb
+
+
 
 📦 ENTREGA FINAL
 
