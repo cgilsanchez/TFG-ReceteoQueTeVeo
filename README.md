@@ -6,6 +6,8 @@
 
 📋 Descripción y Objetivos del Proyecto
 
+
+
 DESCRIPCIÓN
 
 Esta aplicación permite gestionar recetas de cocina a través de un panel de administración con autenticación. Los usuarios con rol de gestor pueden:
