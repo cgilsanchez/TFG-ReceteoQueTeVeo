@@ -38,7 +38,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 ## 📝 HISTÓRICO DE CAMBIOS
 
-### 🔄 AVANCES ANGULAR ([Repositorio Web](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo))
+### 🔄 AVANCES ANGULAR ([Repositorio Web](https://github.com/cgilsanchez/FireBaseApp.git))
 
 ✅ Login con Firebase y autenticación segura  
 ✅ Visualización de recetas  
@@ -48,7 +48,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Documentación generada con Typedoc  
 
 📦 [Descargar CSV ejemplo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/receta_tarta_choco.csv)  
-🔗 [Ver App Web en Netlify](https://ejemplo.netlify.app)
+🔗 [Ver App Web en Netlify](https://receteoqueteveo.netlify.app)
 
 ---
 
