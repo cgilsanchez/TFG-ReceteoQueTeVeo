@@ -47,7 +47,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Tailwind integrado para diseño moderno  
 ✅ Documentación generada con Typedoc  
 
-📦 [Descargar CSV ejemplo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/_Spaghetti_Carbonara.csv)  
+
 🔗 [Ver App Web en Netlify](https://receteoqueteveo.netlify.app)
 
 ---
@@ -66,8 +66,6 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 ### ✨ DESARROLLO DE INTERFACES
 
-🖌️ [Diseño inicial en Balsamiq](https://balsamiq.com/mockup)  
-🎨 [Diseño final en Figma](https://figma.com)  
 📃 Documentación:  
 - [Android (Dokka)](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/dokka-recetapp.zip)
 
@@ -79,6 +77,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 🔧 Limpieza, creación de columnas, búsqueda de patrones  
 
 📈 [Ver Notebook en Colab](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/recetapp-colab.ipynb)
+📦 [Descargar CSV ejemplo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/_Spaghetti_Carbonara.csv)  
 
 ---
 
