@@ -52,7 +52,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 ---
 
-### 📱 AVANCES ANDROID ([Repositorio Android](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo))
+### 📱 AVANCES ANDROID ([Repositorio Android](https://github.com/cgilsanchez/RECETEOQUETEVE0.git))
 
 ✅ Arquitectura limpia con MVVM y Hilt  
 ✅ Subida de recetas + imagen con Firebase  
@@ -69,7 +69,6 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 🖌️ [Diseño inicial en Balsamiq](https://balsamiq.com/mockup)  
 🎨 [Diseño final en Figma](https://figma.com)  
 📃 Documentación:  
-- [Angular (Typedoc)](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/typedoc-web.zip)  
 - [Android (Dokka)](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/dokka-recetapp.zip)
 
 ---
