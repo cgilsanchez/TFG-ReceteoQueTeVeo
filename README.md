@@ -47,7 +47,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Tailwind integrado para diseño moderno  
 ✅ Documentación generada con Typedoc  
 
-📦 [Descargar CSV ejemplo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/receta_tarta_choco.csv)  
+📦 [Descargar CSV ejemplo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/_Spaghetti_Carbonara.csv)  
 🔗 [Ver App Web en Netlify](https://receteoqueteveo.netlify.app)
 
 ---
