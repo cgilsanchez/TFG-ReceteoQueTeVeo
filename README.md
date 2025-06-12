@@ -22,7 +22,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ### 📎 Entregas
 
 📌 [Anteproyecto (Notion)](https://www.notion.so/ReceteoQueTeVeo-1c79f1377a7680c989e9c5a11ea6cc9e)  
-📌 [Checkpoint (YouTube)](https://youtu.be/Z5HlpfXF_lo)
+📌 [Checkpoint (YouTube)](https://youtu.be/Z5HlpfXF_Io))
 
 ---
 
