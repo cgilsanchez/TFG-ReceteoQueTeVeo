@@ -28,11 +28,11 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 ## 🔥 UN ECOSISTEMA PARA AMANTES DE LA COCINA
 
-👑 **Administradores**: Control del contenido desde Angular Web  
+👑 **Administradores**: Control del contenido desde Angular 
 👨‍🍳 **Chefs**: Crea, sube y edita recetas desde Android  
 ⭐ **Usuarios**: Visualiza recetas en detalle y compártelas  
 
-🎬 Video exposición: [Ver presentación](https://youtu.be/Z5HlpfXF_lo)
+🎬 Video exposición: [Ver presentación](https://youtu.be/sqVjpTFo2tI)
 
 ---
 
@@ -44,8 +44,6 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Visualización de recetas  
 ✅ Exportación individual de receta a CSV  
 ✅ Subida de recetas con imagen  
-✅ Tailwind integrado para diseño moderno  
-✅ Documentación generada con Typedoc  
 
 
 🔗 [Ver App Web en Netlify](https://receteoqueteveo.netlify.app)
@@ -55,9 +53,8 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ### 📱 AVANCES ANDROID ([Repositorio Android](https://github.com/cgilsanchez/RECETEOQUETEVE0.git))
 
 ✅ Arquitectura limpia con MVVM y Hilt  
-✅ Subida de recetas + imagen con Firebase  
+✅ Subida de recetas + imagen con Strapi 
 ✅ Vista de detalles de receta responsive  
-✅ Tema claro / oscuro  
 ✅ Exportación de documentación con Dokka  
 
 📦 [Descargar APK Android](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/receteo.apk)
