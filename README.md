@@ -43,7 +43,9 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 ✅ Login con Firebase y autenticación segura  
 ✅ Visualización de recetas  
 ✅ Exportación individual de receta a CSV  
-✅ Subida de recetas con imagen  
+✅ Subida de recetas con imagen
+✅ Búsqueda filrtrada
+✅ Traducción
 
 
 🔗 [Ver App Web en Netlify](https://receteoqueteveo.netlify.app)
@@ -54,8 +56,10 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 
 ✅ Arquitectura limpia con MVVM y Hilt  
 ✅ Subida de recetas + imagen con Strapi 
-✅ Vista de detalles de receta responsive  
-✅ Exportación de documentación con Dokka  
+✅ Vista de detalles de receta responsive 
+✅ SnackBar y Material Alert Dialogs añadidos
+✅ Exportación de documentación con Dokka 
+✅ Traducción
 
 📦 [Descargar APK Android](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo/releases/download/v1.0/receteo.apk)
 
