@@ -32,7 +32,7 @@ Esta aplicación permite gestionar recetas de cocina a través de un panel de ad
 👨‍🍳 **Chefs**: Crea, sube y edita recetas desde Android  
 ⭐ **Usuarios**: Visualiza recetas en detalle y compártelas  
 
-🎬 Video exposición: [Ver presentación](https://youtu.be/sqVjpTFo2tI)
+🎬 Video exposición: [Ver presentación](https://youtu.be/3smaZkfnZqM)
 
 ---
 
